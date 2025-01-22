@@ -3,7 +3,7 @@ body {
   min-width: 900px;
 }
 
-.address .item {
+#address .item {
   text-wrap-mode: nowrap;
 }
 
